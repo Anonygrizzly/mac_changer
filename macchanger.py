@@ -1,4 +1,5 @@
 import subprocess
+#this was the only change
 interface=input("input interface> ")
 new_mac = input("enter mac address such as 00:11:22:33:44:55> ")
 print("[+] chanding mac address of "+interface+" to "+new_mac+" >")
